@@ -1,0 +1,203 @@
+**SOURCE NON-COMMERCIAL LICENSE**
+
+**Version 1.0, 2026**
+
+Copyright (c) \[Year\] \[Author/Organization Name\]
+
+**Core Rule:** Portions of the Software that originate from its source code shall not be charged for or directly monetized. Licensees may charge fees for their own original code, proprietary extensions, and value-added services in accordance with Section 3.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software (provided that any such sale or other charging of fees complies with Section 3), and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+## SECTION 1: DEFINITIONS AND GRANT OF LICENSE
+
+1.1 For the purposes of this License:
+
+(a) "Software" means the original code created by the Licensor and made available under this License, together with its associated documentation files, excluding Third-Party Components;
+
+(b) "derivative works" has the meaning assigned by the applicable copyright law; for the purposes of Section 3, any portion of the Software that has been modified, or that has been incorporated into another work but remains substantially derived from the original Software, constitutes a "Substantially Derived Portion" of the Software;
+
+(c) "Licensor" means the original creator and copyright holder of this License. Only the Licensor may issue Special Declarations under Section 8 and provide the final interpretation of the License text under Section 7.1;
+
+(d) "Licensee" means any person who obtains, uses, modifies, or distributes the Software under this License;
+
+(e) "Third-Party Components" means components, libraries, or assets that were not created by the Licensor and are provided under their respective original licenses. This License applies only to the Licensor's original code and does not modify the terms of any Third-Party Component's original license.
+
+1.2 Subject to the terms and conditions of this License, the Licensor hereby grants to any Licensee a worldwide, royalty-free, non-exclusive, irrevocable (except as provided in Sections 5 and 8) license to deal in the Software without restriction, including without limitation the rights to:
+
+(a) Use the Software for any lawful purpose, whether commercial or non-commercial;
+
+(b) Copy, modify, merge, and create derivative works based on the Software;
+
+(c) Distribute, publish, sublicense, and/or sell copies of the Software or derivative works thereof, provided that any fees charged in connection with such distribution or sale comply with Section 3 (Commercial Use Restrictions);
+
+(d) Permit persons to whom the Software is furnished to do any of the foregoing.
+
+1.3 The above permissions are granted WITHOUT the requirement to include any copyright notice, attribution, or license declaration in distributed copies or derivative works, provided that such distribution complies with all other conditions set forth in this License.
+
+1.4 The license granted in this Section 1 is expressly conditioned upon the Licensee's compliance with all restrictions and obligations set forth in Sections 2 through 10 of this License. Any use of the Software that violates said restrictions shall fall outside the scope of the license granted herein.
+
+## SECTION 2: PROHIBITED USES
+
+2.1 Notwithstanding the broad permissions granted in Section 1, the Software and any derivative works thereof SHALL NOT be used for any illegal purpose. "Illegal purpose" means any purpose that is prohibited by the applicable laws, regulations, or judicial decisions of the jurisdiction in which the Software is produced, distributed, or used.
+
+2.2 Without limiting the generality of Section 2.1, the Software shall not be used in any activity that:
+
+(a) Violates criminal laws or administrative regulations;
+
+(b) Infringes upon the intellectual property rights, privacy rights, or other legitimate rights of any third party;
+
+(c) Endangers national security, public order, or public interest;
+
+(d) Violates public order or good customs.
+
+2.3 Any use of the Software in violation of this Section 2 shall constitute a material breach of this License. Termination and any reinstatement arising from such breach shall be handled in accordance with Section 5.
+
+## SECTION 3: COMMERCIAL USE RESTRICTIONS
+
+3.1 Definition of "Commercial Use":
+
+"Commercial Use" refers to any use of the Software or derivative works thereof for the purpose of generating revenue, profit, or commercial advantage, including but not limited to:
+
+(a) Selling the Software or derivative works as a product;
+
+(b) Incorporating the Software into a commercial product or service;
+
+(c) Using the Software to provide paid services (e.g., SaaS, consulting, support, hosting);
+
+(d) Any other activity primarily intended for monetary gain.
+
+3.2 Exclusion — Advertising-Based Revenue:
+
+The restrictions in Section 3.3 do NOT apply to commercial activities that generate revenue primarily through advertising, sponsorships, or similar non-direct monetization methods where the Software itself is not sold or charged for directly.
+
+3.3 Restriction on Charging for Original Code:
+
+When engaging in Commercial Use (as defined in Section 3.1), the Licensee SHALL ONLY charge fees for the following portions of the product or service:
+
+(a) Original code, features, modules, or components created by the Licensee that are independent of and not derived from the Software;
+
+(b) Value-added services such as technical support, consulting, training, customization, maintenance, or hosting;
+
+(c) The Licensee is PROHIBITED from charging fees specifically for:
+
+\- The original source code of the Software provided under this License;
+
+\- Any portion of the Software that has been modified but remains substantially derived from the original Software;
+
+\- Key source code modules or core components that originate from the Software.
+
+3.4 Clarification:
+
+This License does not prevent the Licensee from monetizing their own original contributions, proprietary extensions, or complementary products that are separate from the Software. The intent is to ensure that the original Software remains freely accessible and is not directly monetized by third parties in commercial contexts.
+
+## SECTION 4: DISCLAIMER OF WARRANTY
+
+4.1 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4.2 THE LICENSOR MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING:
+
+(a) The accuracy, reliability, or completeness of the Software;
+
+(b) The Software being free from errors, bugs, or security vulnerabilities;
+
+(c) The Software being suitable for any particular purpose or use case;
+
+(d) Any third-party intellectual property rights being infringed by the Software.
+
+4.3 THE LICENSEE USES THE SOFTWARE AT THEIR OWN RISK. THE LICENSOR SHALL NOT BE RESPONSIBLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+4.4 NOTHING IN THIS LICENSE GRANTS ANY RIGHT TO USE ANY TRADEMARK, TRADE NAME, SERVICE MARK, LOGO, OR OTHER IDENTIFICATION OF THE LICENSOR OR ANY THIRD PARTY, WHETHER BY IMPLICATION, ESTOPPEL, OR OTHERWISE. Any such rights must be obtained separately in writing.
+
+## SECTION 5: TERMINATION
+
+5.1 Any violation of Section 2 (Prohibited Uses) or Section 3 (Commercial Use Restrictions) shall automatically terminate the license granted herein with respect to the violating party. Upon termination, the Licensee shall immediately cease all use, distribution, and modification of the Software, subject to reinstatement under Section 5.2.
+
+5.2 Reinstatement. If, within thirty (30) days after termination takes effect under Section 5.1, the Licensee permanently ceases the violating activity and comes into full compliance with this License, the license granted under Section 1 shall be automatically reinstated with respect to that Licensee, effective as of the date on which the violation ceased.
+
+Notwithstanding the foregoing, termination shall be permanent if: (a) the Licensee's license has terminated under Section 5.1 for a similar violation more than once within any sixty (60) day period; or (b) the Licensee commits the same or a similar violation after being reinstated. In either case, the license may be restored only upon the Licensor's express written consent.
+
+5.3 Termination of this License does not affect the rights of any other Licensee who has received the Software under this License prior to such termination.
+
+5.4 The provisions of Section 4 (Disclaimer of Warranty), Section 6 (Governing Law, Severability and Language), Section 7 (Interpretation), and Section 10 (Redistribution and Modification of this License) shall survive the termination of this License.
+
+## SECTION 6: GOVERNING LAW, SEVERABILITY AND LANGUAGE
+
+6.1 This License shall be governed by and construed in accordance with the laws of the People's Republic of China, without regard to its conflict of law principles.
+
+6.2 If any provision of this License is held to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect. The invalid provision shall be replaced by a valid provision that most closely reflects the original intent of the Licensor.
+
+6.3 Language. This License is executed in both English and Chinese, both texts being equally authentic. In the event of any inconsistency or ambiguity between the two texts, the Chinese text shall prevail.
+
+## SECTION 7: INTERPRETATION
+
+7.1 In the event of any dispute, ambiguity, or disagreement arising from the interpretation of this License itself (as distinct from its application to a specific project), the Licensor (i.e., the original creator of this License) reserves the right to provide the final interpretation of the License terms.
+
+7.2 A Licensee who adopts this License for their own software project may provide interpretations regarding the application of this License to their respective project, provided that such interpretation (i) does not contradict the explicit provisions contained herein, and (ii) does not override the Licensor's interpretation of the License text under Section 7.1.
+
+7.3 Notwithstanding the foregoing, if any dispute escalates to legal proceedings, the interpretation of this License shall be subject to the determination of the competent court or arbitration body in the jurisdiction specified in Section 6.1, and such determination shall prevail over any interpretation provided under Sections 7.1 and 7.2.
+
+\===============================================================================
+
+## SECTION 8: SPECIAL DECLARATION AND MANDATORY OVERRIDE
+
+\===============================================================================
+
+8.1 The Licensor reserves the right, at any time and at its sole discretion, to issue a "Special Declaration" identifying specific provisions of this License that shall be universally applicable to all copies of the Software, regardless of the version of this License under which such copies were originally distributed or subsequently updated. This Section 8 is subject to Section 9 (Version Lock and Opt-Out); in the event of any conflict between a Special Declaration and a valid version lock declaration made under Section 9, the version lock shall prevail.
+
+8.2 Upon publication of a Special Declaration, any provision of this License (including provisions contained in prior versions of this License and any other license terms attached to the Software) that conflicts with or is inconsistent with the Special Declaration shall be deemed modified to the extent of such conflict, and the terms of the Special Declaration shall prevail and supersede such conflicting provisions.
+
+8.3 A Special Declaration shall clearly specify:
+
+(a) The effective date of the Special Declaration;
+
+(b) The specific provisions of this License affected by the Special Declaration;
+
+(c) The reasons and circumstances necessitating the issuance of the Special Declaration;
+
+(d) The period, if any, within which Licensees shall comply with the Special Declaration prior to enforcement of termination or other remedies.
+
+8.4 Except as expressly modified by a Special Declaration under this Section 8, all other provisions of this License shall remain in full force and effect according to their respective versions, and the validity of such unaffected provisions shall not be impaired by such modification.
+
+8.5 Continued use, distribution, or modification of the Software after the effective date of a Special Declaration shall constitute the Licensee's acceptance of such Special Declaration. If a Licensee does not accept the Special Declaration, such Licensee must cease all use, distribution, and modification of the Software within the compliance period specified in the Special Declaration.
+
+8.6 The Licensor shall make reasonable efforts to notify all known Licensees of any Special Declaration through publicly accessible channels (including but not limited to the Software's official repository, mailing list, or official website). Such notification shall not be a condition precedent to the effectiveness of the Special Declaration but shall serve as evidence of good faith dissemination.
+
+## SECTION 9: VERSION LOCK AND OPT-OUT
+
+9.1 The Licensor reserves the right to publish updated versions of this License from time to time, each assigned a distinct version number (e.g., "Version 1.0", "Version 2.0"). The version of this License that governs a particular copy of the Software is the version distributed or made available with that copy, except as modified by a Special Declaration under Section 8.
+
+9.2 A Licensee who uses this License for their own open source repository (the "Repository Licensee") may, by means of a conspicuous written declaration in the repository (such as in the LICENSE file, README file, or a dedicated NOTICE file), elect to lock the applicable version of this License to a specific version number (the "Locked Version").
+
+9.3 Upon making a valid declaration under Section 9.2, the Repository Licensee and their Repository shall be exempt from any mandatory override under Section 8 (Special Declaration and Mandatory Override) and from any obligation arising from the publication of updated versions of this License. The Locked Version shall continue to govern the Repository and all derivative works thereof indefinitely, regardless of any subsequent updates, revisions, or special declarations issued by the Licensor.
+
+9.4 The version lock declared under Section 9.2 shall extend to all persons who subsequently fork, modify, redistribute, or otherwise use the Repository or any derivative works thereof. Such downstream users shall be bound by the Locked Version and shall not be subject to any later version of this License or any special declaration issued after the date of the version lock declaration, unless such downstream user independently elects to comply with a later version of this License published by the Licensor.
+
+9.5 A version lock declaration under this Section 9 shall be effective only if it clearly specifies:
+
+(a) The exact version number of this License being locked (e.g., "Version 1.0");
+
+(b) The date on which the declaration is made;
+
+(c) A statement that the Repository Licensee elects not to follow future updates of this License.
+
+9.6 A Repository Licensee who has made a version lock declaration may, at their sole discretion, voluntarily upgrade to a later version of this License by issuing a new declaration. Upon such voluntary upgrade, the new version shall replace the Locked Version and shall govern the Repository and all derivative works thereof going forward.
+
+## SECTION 10: REDISTRIBUTION AND MODIFICATION OF THIS LICENSE
+
+10.1 This License may be redistributed and modified by any person or entity for the purpose of adapting it to different use cases, jurisdictions, or specific project requirements.
+
+10.2 Any person who redistributes and modifies this License (the "Modified License") shall:
+
+(a) Clearly indicate in the Modified License that it is derived from this License and identify the original version;
+
+(b) Include a copyright notice from the original Licensor;
+
+(c) State that the Modified License is independent of and not affiliated with this License.
+
+10.3 A Modified License shall be a separate and independent agreement. It shall not be deemed to be an amendment, supplement, or modification of this License unless expressly stated otherwise by the original Licensor. The Modified License and this License shall be legally independent and shall not be construed as being affiliated or connected with each other.
+
+10.4 Notwithstanding Section 10.3, any Modified License distributed or redistributed shall include a prominent copyright notice identifying the original copyright holder(s) and the date of original publication. The copyright notice shall appear in a conspicuous location within the Modified License document.
+
+10.5 The original Licensor makes no representation or warranty regarding any Modified License created by third parties, and shall not be liable for any damages arising from the use of any Modified License.
+
+**END OF LICENSE**
